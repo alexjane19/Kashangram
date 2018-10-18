@@ -1,0 +1,14 @@
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'pic1', 'سلام خوبی؟', true, '2017-02-09 13:19:43.343000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'pic3', 'چقدر بد شده هوار', false, '2017-02-09 13:27:05.641000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'pic2', 'هوا خوبه', false, '2017-02-09 13:26:30.614000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'pic4', 'سید چطوری خوبی؟', true, '2017-02-09 13:28:49.218000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('negin', 'pic5', 'الو خوبی؟', true, '2017-02-09 14:33:31.746000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('negin', 'pic6', 'آکله', false, '2017-02-09 14:33:58.875000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('moien', 'pic7', 'سلام عزیزم', true, '2017-02-09 17:05:03.374000', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'DntR65k1486720184735', 'سلام', true, '2017-02-10 13:19:44.838118', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'PwFl3Tg1486720271522', 'میخوای چه بکنیدو😀😉😉😀', true, '2017-02-10 13:21:11.547193', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'cSfT24e1486721295584', 'یاسمین یادت بخیر', true, '2017-02-10 13:38:15.704655', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'gd18KnS1486721843922', 'Salam tanhayi😘😘😘', true, '2017-02-10 13:47:23.993900', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', '2TioyaQ1486720020352', '', true, '2017-02-10 13:40:36.098209', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('alexjane', 'mRB1rQF1486795040728', 'سایت', true, '2017-02-11 10:07:20.810615', true);
+INSERT INTO public.photo (userid, photoid, writing, accesslevel, date, picture) VALUES ('seyedipoor', '0gVUoVQ1486795447201', 'سایت', true, '2017-02-11 10:14:07.243496', true);
